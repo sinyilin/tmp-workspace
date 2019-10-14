@@ -1,6 +1,6 @@
 <template>
   <v-app id="login">
-    <h4 class="white--text">Smart Charlie 智匯查理</h4>
+    <h4 class="white--text">Web Name</h4>
     <v-content>
       <v-container fluid fill-height>
         <v-layout align-center justify-center>
